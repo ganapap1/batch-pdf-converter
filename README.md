@@ -5,6 +5,8 @@ Free, for Windows 10 and 11. Nothing to install, no account, no internet needed.
 
 ▶ **Watch the video tutorial first:** [YouTube tutorial](https://youtu.be/6J9USMwdhtY) on **Happy Learning-GP**
 
+[![Watch the Batch PDF Converter video tutorial on YouTube](docs/video-thumbnail.png)](https://youtu.be/6J9USMwdhtY)
+
 ⬇ **[Download Batch-PDF-Converter.zip](https://github.com/ganapap1/batch-pdf-converter/releases/latest/download/Batch-PDF-Converter.zip)**
 
 ![Batch PDF Converter: a folder of payment requests, converted, with the status of every file](docs/screenshot.png)
