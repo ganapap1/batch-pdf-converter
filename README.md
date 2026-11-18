@@ -3,11 +3,9 @@
 **Turn Word files and PDFs into clean, ready-to-submit PDFs, a whole folder at once.**
 Free, for Windows 10 and 11. Nothing to install, no account, no internet needed. Your documents never leave your computer.
 
-▶ **Watch the video tutorial first:** [YouTube tutorial](https://youtu.be/6J9USMwdhtY) on **Happy Learning-GP**
+▶ **Watch the 3-minute video first:** [YouTube tutorial](https://youtu.be/6J9USMwdhtY) on **Happy Learning-GP**. It shows every step, so your first run goes smoothly.
 
 [![Watch the Batch PDF Converter video tutorial on YouTube](docs/video-thumbnail.png)](https://youtu.be/6J9USMwdhtY)
-
-⬇ **[Download Batch-PDF-Converter.zip](https://github.com/ganapap1/batch-pdf-converter/releases/latest/download/Batch-PDF-Converter.zip)**
 
 ![Batch PDF Converter: a folder of payment requests, converted, with the status of every file](docs/screenshot.png)
 
@@ -23,14 +21,15 @@ Free, for Windows 10 and 11. Nothing to install, no account, no internet needed.
 
 Ideal for monthly payment request packs, and any set of documents you need to submit as PDFs.
 
-## Start in 3 steps (Windows 10 or 11)
+## Start in 4 steps (Windows 10 or 11)
 
-1. **Download** [Batch-PDF-Converter.zip](https://github.com/ganapap1/batch-pdf-converter/releases/latest/download/Batch-PDF-Converter.zip).
-2. **Extract** it.
+1. **Watch** the [video tutorial](https://youtu.be/6J9USMwdhtY) (about 3 minutes).
+2. **Download** [Batch-PDF-Converter.zip](https://github.com/ganapap1/batch-pdf-converter/releases/latest/download/Batch-PDF-Converter.zip).
+3. **Extract** it.
    - Right-click the ZIP → **Extract All…** → **Extract**.
    - **Tip:** before extracting, right-click the ZIP → **Properties**, tick **Unblock**, then **OK**.
    - The program doesn't work from inside the ZIP. Keep all the files in the extracted folder together.
-3. In the extracted folder, **double-click `Batch PDF Converter.exe`**.
+4. In the extracted folder, **double-click `Batch PDF Converter.exe`**.
    - The first time, Windows may say **"Windows protected your PC"**. That's normal for a new program: click **More info**, then **Run anyway**.
 
 Then click **Browse...** (or drag a folder onto the window), check the list, and click **Convert**.
